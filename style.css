@@ -1,0 +1,15 @@
+/*
+Theme Name:     Invent Child
+Theme URI:      http://portfoliotheme.org/invent
+Description:    Child theme for the Invent Theme by LiveMesh
+Author:         LiveMesh
+Author URI:     http://themeforest.net/user/livemesh
+Template:       invent
+Version:        0.1.0
+*/
+
+@import url("../invent/style.css");
+
+#header.sticky #site-logo {
+    top: 8px;
+    }
